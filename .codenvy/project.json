@@ -1,0 +1,1 @@
+{"builders":{"default":"maven"},"runners":{"configs":{},"default":"system:/java/standalone/db/neo4j"},"description":"A simple desktop application that creates a Neo4j DB.","type":"maven","attributes":{"language":["java"]}}
